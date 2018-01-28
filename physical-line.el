@@ -15,6 +15,8 @@
 ;; next-line, beginning-of-line, end-of-line. It will make your
 ;; Emacs-life much more comfortable!
 ;; 
+;; License: GPL
+;; 
 ;; Physical-line-mode.el comes with ABSOLUTELY NO WARRANTY.
 ;; This software is distributed under the GNU General Public License.
 ;;
